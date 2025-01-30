@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "367007977537",
+    "firebase_url": "https://air-sense-monitor-default-rtdb.firebaseio.com",
+    "project_id": "air-sense-monitor",
+    "storage_bucket": "air-sense-monitor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367007977537:android:4b4f81080a42c7509d36c0",
+        "android_client_info": {
+          "package_name": "com.example.air_quality_sensor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARVzC10sZsuJv0c3uylOs96aol54wvZrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
